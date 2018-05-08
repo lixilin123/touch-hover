@@ -1,5 +1,5 @@
 # touch-hover
-[![npm](https://img.shields.io/npm/v/touch-hover.svg)](https://www.npmjs.com/package/touch-hover)
+[![npm](https://img.shields.io/npm/v/touch-hover.svg)](https://www.npmjs.com/package/touch-hover) [![npm](https://img.shields.io/npm/dt/touch-hover.svg)](https://www.npmjs.com/package/touch-hover)
 > [中文文档](https://github.com/lixilin123/touch-hover/blob/master/README-zh.md)
 ### 1. Introduction
 This github repository contains a file for setting mobile click styles.

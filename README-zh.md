@@ -1,5 +1,5 @@
 # touch-hover
-[![npm](https://img.shields.io/npm/v/touch-hover.svg)](https://www.npmjs.com/package/touch-hover)
+[![npm](https://img.shields.io/npm/v/touch-hover.svg)](https://www.npmjs.com/package/touch-hover) [![npm](https://img.shields.io/npm/dt/touch-hover.svg)](https://www.npmjs.com/package/touch-hover)
 > [English Readme](https://github.com/lixilin123/touch-hover)
 ### 1. 简介
 本仓库封装了一个用于设置移动端点击样式的文件
