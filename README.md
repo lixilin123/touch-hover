@@ -14,6 +14,6 @@ This github repository contains a file for setting mobile click styles.
 ```
 ```css
 .custom-class-name {
-Transform: scale(0.95)
+	transform: scale(0.95)
 }
 ```
